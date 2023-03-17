@@ -19,6 +19,6 @@ function dados(){
     
     
     let titulo2 = document.getElementById('text');
-    titulo2.innerHTML = ('Aqui está: ', escolhidos.join('')) 
+    titulo2.innerHTML = (escolhidos.join('')) 
 }
    
