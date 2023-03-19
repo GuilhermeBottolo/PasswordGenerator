@@ -5,7 +5,7 @@ function dados(){
         '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '!', '@', '#', '$',  '&', '*'
       ];
 
-    let quantidade = 8;
+    let quantidade = 10;
     let escolhidos = [];
     
     
